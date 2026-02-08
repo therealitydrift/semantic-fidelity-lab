@@ -1,0 +1,9 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix sfl: <https://semanticfidelitylab.org/terms/> .
+
+<https://semanticfidelitylab.org/glossary/SFL-2025-V10>
+  a dct:Text ;
+  dct:title "Semantic Fidelity Glossary — SFL-2025-V10" ;
+  dct:creator "Semantic Fidelity Lab" ;
+  dct:subject "semantic_fidelity", "semantic drift", "fidelity decay", "meaning debt" ;
+  dct:identifier "SFL-2025-V10" .

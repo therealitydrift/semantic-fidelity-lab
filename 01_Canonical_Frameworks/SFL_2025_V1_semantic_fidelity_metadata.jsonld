@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Semantic Fidelity Glossary \u2014 SFL-2025-V10",
+  "description": "Prototype taxonomy and stub dataset illustrating semantic_fidelity variables.",
+  "creator": {
+    "@type": "Organization",
+    "name": "Semantic Fidelity Lab"
+  },
+  "keywords": [
+    "semantic_fidelity",
+    "semantic drift",
+    "fidelity decay",
+    "meaning debt",
+    "semantic visibility"
+  ],
+  "variableMeasured": [
+    "semantic_fidelity_score",
+    "drift_type"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

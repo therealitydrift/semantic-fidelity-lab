@@ -14,8 +14,17 @@ The frameworks in this folder function as reference foundations rather than inte
 
 This directory currently includes:
 
-- Canonical Lexicon  
-  A formal glossary defining the core concepts of semantic fidelity, including semantic drift, fidelity decay, meaning collapse, ground erosion, and related diagnostic terms.
+- **Canonical Lexicon (PDF)**  
+  A formal glossary defining the core concepts of semantic fidelity, including semantic drift, fidelity decay, meaning collapse, ground erosion, and related diagnostic terms. This document serves as the primary human-readable reference for the framework’s vocabulary.
+
+- **Citation Entry (BibTeX)**  
+  A standardized BibTeX citation file for referencing the Semantic Fidelity framework in academic papers, technical documentation, and research proposals.
+
+- **Structured Metadata (JSON-LD)**  
+  Machine-readable metadata describing the Semantic Fidelity framework using Schema.org / JSON-LD conventions. Intended for indexing, linked-data systems, and semantic harvesting by AI and research tooling.
+
+- **Ontology Specification (RDF/Turtle)**  
+  A formal ontology defining the relationships between key Semantic Fidelity concepts for use in knowledge graphs, semantic-web integrations, and structured reasoning systems.
 
 ---
 
