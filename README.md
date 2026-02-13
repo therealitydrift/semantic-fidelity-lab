@@ -1,8 +1,10 @@
 # Semantic Fidelity Lab
 
-The Semantic Fidelity Lab is an open, public research repository focused on how meaning degrades, thins, or collapses in generative and compression-driven systems.
+The Semantic Fidelity Lab is an open, public research repository authored by A. Jacobs, focused on how meaning degrades, thins, or collapses in generative and compression-driven systems.
 
-It examines semantic fidelity as a structural property: how meaning is preserved, distorted, or lost as language is repeatedly generated, compressed, optimized, and recombined by artificial systems.
+The materials collected here were developed between 2023 and 2026 as part of the broader Reality Drift framework.
+
+The project examines semantic fidelity as a structural property: how meaning is preserved, distorted, or lost as language is repeatedly generated, compressed, optimized, and recombined by artificial systems operating at scale.
 
 This repository consolidates working papers, lexical frameworks, diagnostic concepts, and measurement proposals for researchers, developers, evaluators, and system designers working on generative AI and language-based systems.
 
