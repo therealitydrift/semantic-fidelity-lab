@@ -103,13 +103,13 @@ The Drift Principle states that when systems accelerate or increase in complexit
 
 ---
 
-## Book
+## The Age of Drift - Collected Writings
 
 **The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
 
 - **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
 
-- **Google Books**: [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
+- **Google*** [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
 
 ---
 
@@ -124,16 +124,11 @@ The Drift Principle states that when systems accelerate or increase in complexit
 
 - **Figshare**: https://figshare.com/authors/Semantic_Fidelity_Lab/22458886
 
-- **OSF**  
-  [OSF](https://osf.io/k2rgp/overview)
-
 - **ORCID**  
   [ORCID](https://orcid.org/0009-0002-7251-9875)
 
 - **Academia.edu**  
   [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
-
-- **Goodreads (Author Profile)**: [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
 
 ---
 
