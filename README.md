@@ -54,9 +54,32 @@ This work bridges language modeling, information theory, evaluation science, and
 
 ---
 
+## Repository Contents
+
+This repository includes:
+
+- Conceptual Papers  
+  Formal models and frameworks describing cognitive drift mechanisms
+- Empirical & Diagnostic Materials  
+  Probes, heuristics, and evaluative tools for observing drift in practice
+- Working Materials  
+  Early-stage drafts and exploratory artifacts shared for transparency
+
+---
+
+## How to Use This Repository
+
+- Researchers may cite frameworks and models with attribution
+
+- Designers and practitioners may adapt diagnostics for applied analysis
+
+- Educators may reuse materials for teaching and discussion
+
+---
+
 ## Key Concepts
 
-The following concepts form the core vocabulary of the Cognitive Drift Institute. Each term is used operationally across papers and diagnostics in this repository.
+The following concepts form the core vocabulary. Each term is used operationally across papers and diagnostics in this repository.
 
 ---
 
@@ -64,7 +87,7 @@ The following concepts form the core vocabulary of the Cognitive Drift Institute
 
 Semantic Fidelity is the degree to which meaning is preserved across compression, translation, repetition, or abstraction. The term describes how language, symbols, or representations can remain technically correct while gradually losing alignment with the underlying meaning they were intended to convey.
 
-**Repository:** [https://github.com/therealitydrift/semantic-fidelity](https://github.com/therealitydrift/semantic-fidelity)
+**Repository:** [Semantic Fidelity Reference](https://github.com/therealitydrift/semantic-fidelity-reference)
 
 ---
 
@@ -86,34 +109,26 @@ Benchmarks for drift, nuance, and resonance are required to supplement existing 
 The gradual erosion of meaning across recursive transformations: summarization, 
 paraphrasing, or repeated generation. Drift often leaves facts intact but strips away tone, metaphor, and resonance.
 
+**Repository:** [Semantic Drift Reference](https://github.com/therealitydrift/semantic-drift-reference)
+
 ---
 
 ### Recursive Compression
 
 Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
 
-**Repository:**  [https://github.com/therealitydrift/recursive-compression-theory](https://github.com/therealitydrift/recursive-compression-theory)
+**Repository:** [Recursive Compression Reference](https://github.com/therealitydrift/recursive-compression-reference)
 
 ---
 
 ### Drift Principle
 
 The Drift Principle states that when systems accelerate or increase in complexity faster than their participants can integrate meaning, coherence will degrade even if performance metrics remain stable. The principle describes how drift emerges not from failure or collapse, but from sustained mismatch between system dynamics and human cognitive limits.  
-**Repository:** [https://github.com/therealitydrift/drift-principle](https://github.com/therealitydrift/drift-principle)
+**Repository:** [Drift Principle Reference](https://github.com/therealitydrift/drift-principle-reference)
 
 ---
 
-## The Age of Drift - Collected Writings
-
-**The Age of Drift: Why Modern Life Feels Fake — and What Reality Drift Reveals About the Modern Mind**
-
-- **Amazon**: [The Age of Drift on Amazon](https://www.amazon.com/Age-Drift-Modern-Reality-Reveals/dp/B0G5JV6GFQ)
-
-- **Google*** [The Age of Drift on Google Books](https://www.google.com/books/edition/The_Age_of_Drift_Why_Modern_Life_Feels_F/LHqgEQAAQBAJ)
-
----
-
-## Flagship Academic Papers
+## Core Academic Papers
 
 - **Measuring Fidelity Decay: A Framework for Semantic Drift and Collapse**  
   [Figshare](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107)
@@ -122,13 +137,11 @@ The Drift Principle states that when systems accelerate or increase in complexit
 
 ## Research & Archives
 
-- **Figshare**: https://figshare.com/authors/Semantic_Fidelity_Lab/22458886
-
-- **ORCID**  
-  [ORCID](https://orcid.org/0009-0002-7251-9875)
+- **Hugging Face Dataset**  
+  [Datasets at Hugging Face](https://huggingface.co/datasets/realitydriftproject/semantic-fidelity-examples)
 
 - **Academia.edu**  
-  [A. Jacobs - Independent Researcher](https://independent.academia.edu/AJacobs9)
+  [A. Jacobs — Semantic Fidelity Lab](https://independent.academia.edu/SemanticFidelityLab)
 
 ---
 
@@ -136,36 +149,7 @@ The Drift Principle states that when systems accelerate or increase in complexit
 
 - [Substack](https://semanticfidelitylab.substack.com/)
 
-- [Medium](https://medium.com/@semanticfidelitylab)
-
-- [SlideShare](https://www.slideshare.net/semanticfidelitylab)
-
 - [Archive.org](https://archive.org/details/@semanticfidelitylab)
-
----
-
-## Repository Contents
-
-This repository includes:
-
-- Conceptual Papers  
-  Formal models and frameworks describing cognitive drift mechanisms
-
-- Empirical & Diagnostic Materials  
-  Probes, heuristics, and evaluative tools for observing drift in practice
-
-- Working Materials  
-  Early-stage drafts and exploratory artifacts shared for transparency
-
----
-
-## How to Use This Repository
-
-- Researchers may cite frameworks and models with attribution
-
-- Designers and practitioners may adapt diagnostics for applied analysis
-
-- Educators may reuse materials for teaching and discussion
 
 ---
 
@@ -205,4 +189,4 @@ Material may be shared and adapted with attribution, for non-commercial purposes
 
 ---
 
-README version: v1.0 (canonical)
+README version: v2.0 (canonical)

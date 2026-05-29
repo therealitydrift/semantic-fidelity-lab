@@ -56,8 +56,13 @@ Semantic Fidelity Lab. (2025). *Academic Papers*.
 
 ---
 
-### Notes
+## Core framework and sources
 
-Academic papers are preserved as versioned documents.
+- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
+- Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
+- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
+- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
 
-README version: v1.0
+---
+
+README version: v2.0

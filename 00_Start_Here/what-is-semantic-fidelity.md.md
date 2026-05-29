@@ -8,9 +8,7 @@ Semantic Fidelity describes how well meaning survives when information is compre
 
 Language constantly moves through layers of mediation: human conversation, institutional processes, digital platforms, and increasingly, AI models. Each layer compresses information, filtering nuance while preserving patterns that appear coherent.
 
-When semantic fidelity is high, meaning survives these transformations with minimal distortion.
-
-When semantic fidelity degrades, language remains fluent and convincing but begins to drift away from the ideas or realities it originally described.
+When semantic fidelity is high, meaning survives these transformations with minimal distortion. When semantic fidelity degrades, language remains fluent and convincing but begins to drift away from the ideas or realities it originally described.
 
 The Semantic Fidelity Lab studies how meaning changes as language moves through increasingly mediated environments.
 
@@ -20,9 +18,7 @@ Modern communication systems prioritize efficiency, scale, and pattern recogniti
 
 Large language models compress vast textual corpora into statistical patterns. Platforms optimize language for engagement and visibility. Institutions translate complex realities into simplified reports and metrics.
 
-These processes enable information to circulate faster and more widely than ever before.
-
-But they also introduce a structural risk: meaning may degrade while linguistic fluency remains intact.
+These processes enable information to circulate faster and more widely than ever before. But they also introduce a structural risk: meaning may degrade while linguistic fluency remains intact.
 
 Outputs can appear precise, persuasive, and authoritative while subtly diverging from the underlying concepts they represent.
 

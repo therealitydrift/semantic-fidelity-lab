@@ -42,4 +42,4 @@ The focus shifts from evaluating correctness alone to evaluating whether systems
 - Primary DOI Record: [Figshare Collection](https://figshare.com/)
 - Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
 
-
+---

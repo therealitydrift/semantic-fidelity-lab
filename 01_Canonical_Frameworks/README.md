@@ -6,7 +6,7 @@
 
 This directory contains the canonical frameworks produced by the Semantic Fidelity Lab. These materials define the core vocabulary, definitions, and conceptual structures used to analyze meaning preservation, semantic drift, and fidelity decay in generative systems.
 
-The frameworks in this folder function as reference foundations rather than interpretive or explanatory work. They establish shared language and diagnostic structure used consistently across research papers, evaluation proposals, and applied analysis.
+The frameworks in this folder function as reference foundations and establish shared language and diagnostic structure used consistently across research papers, evaluation proposals, and applied analysis.
 
 ---
 
@@ -14,17 +14,14 @@ The frameworks in this folder function as reference foundations rather than inte
 
 This directory currently includes:
 
-- **Canonical Lexicon (PDF)**  
-  A formal glossary defining the core concepts of semantic fidelity, including semantic drift, fidelity decay, meaning collapse, ground erosion, and related diagnostic terms. This document serves as the primary human-readable reference for the framework’s vocabulary.
+- **[Diagnostic Visual Framework](Diagnostic_Visual_Framework/)**  
+  Visual diagnostic frameworks used to explain semantic fidelity, meaning preservation, drift patterns, and related failure modes.
 
-- **Citation Entry (BibTeX)**  
-  A standardized BibTeX citation file for referencing the Semantic Fidelity framework in academic papers, technical documentation, and research proposals.
+- **[Glossaries](Glossaries/)**  
+  Glossary and lexicon materials defining the core concepts of semantic fidelity, including semantic drift, fidelity decay, meaning collapse, ground erosion, and related diagnostic terms. These documents serve as the primary reference layer for the framework’s vocabulary.
 
-- **Structured Metadata (JSON-LD)**  
-  Machine-readable metadata describing the Semantic Fidelity framework using Schema.org / JSON-LD conventions. Intended for indexing, linked-data systems, and semantic harvesting by AI and research tooling.
-
-- **Ontology Specification (RDF/Turtle)**  
-  A formal ontology defining the relationships between key Semantic Fidelity concepts for use in knowledge graphs, semantic-web integrations, and structured reasoning systems.
+- **[Ontology](Ontology/)**  
+  Machine-readable ontology, structured metadata, and citation files supporting semantic indexing, linked-data systems, knowledge graphs, research tooling, and structured reference.
 
 ---
 
@@ -59,11 +56,17 @@ This directory is part of the [Semantic Fidelity Lab GitHub repository](https://
 
 Semantic Fidelity Lab. (2025). *Canonical Frameworks*.
 
+
+
 ---
 
-### Notes
+## Core framework and sources
 
-Canonical frameworks are maintained as versioned reference documents.
-Revisions are released as discrete updates rather than inline edits.
+- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
+- Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
+- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
+- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
 
-README version: v1.0
+---
+
+README version: v2.0

@@ -1,71 +1,76 @@
 # Research and Papers
 
-## Research Outputs of the Semantic Fidelity Lab
+## Semantic Fidelity Research Materials
 
 ### Overview
 
-This directory contains research papers produced by the Semantic Fidelity Lab.
-These materials develop, formalize, and extend the lab’s work on semantic fidelity,
-meaning erosion, and drift in generative and compression-driven language systems.
+This directory contains the main research and paper materials for the Semantic Fidelity Lab.
 
-The contents of this folder consist of research papers rather than canonical frameworks or published essays. They are intended for citation, scholarly reference, and methodological development.
+The primary folders are the core Semantic Fidelity framework and the SFL failure modes series. Additional papers and supporting materials are included for research context, development history, and supplementary reference.
 
 ---
 
-### Contents
+## Contents
 
-This directory includes the following categories of research papers:
+### Core Semantic Fidelity Framework
 
-- Foundational Papers  
-  Early and baseline papers that establish core problem framing, assumptions,
-  and conceptual orientation for the lab’s work.
+Folder: [Core_Semantic_Fidelity_Framework](./Core_Semantic_Fidelity_Framework/)
 
-- Academic Papers  
-  Formal academic contributions presenting structured analysis, models,
-  and measurement frameworks related to semantic fidelity.
-
-Each subdirectory contains standalone, versioned research papers.
+Primary framework materials defining the core structure of Semantic Fidelity, including meaning preservation, fidelity decay, semantic drift, and representational stability in generative systems.
 
 ---
 
-### Role Within the Semantic Fidelity Lab
+### SFL Failure Modes Series
 
-Research papers provide the formal analytical layer of the Semantic Fidelity Lab.
-They connect canonical definitions and lexicons to applied evaluation,
-benchmarking proposals, and interpretive essays.
+Folder: [SFL_Failure_Modes_Series](./SFL_Failure_Modes_Series/)
 
-These materials focus on clarifying structure, causality, and failure modes
-associated with meaning preservation in generative systems.
+Applied failure mode papers and framework extensions describing how semantic fidelity breaks down across recursive AI systems, generated language, compression loops, and mediated knowledge environments.
 
 ---
 
-### Intended Use
+### Academic Papers
 
-These materials may be used for:
+Folder: [Academic_Papers](./Academic_Papers/)
 
-- Academic research and citation  
-- Theoretical and methodological development  
-- Evaluation and benchmarking design  
-- Advanced educational contexts  
+Formal papers, drafts, and academic-format materials related to the Semantic Fidelity Lab.
 
 ---
 
-### Context
+### Supplementary Materials
 
-This directory is part of the Semantic Fidelity Lab GitHub repository:  
-[https://github.com/therealitydrift/semantic-fidelity-lab](https://github.com/therealitydrift/semantic-fidelity-lab)
+Folder: [Supplementary_Materials](./Supplementary_Materials/)
 
----
-
-### Citation
-
-Semantic Fidelity Lab. (2025). *Research and Papers*.
+Supporting essays, source texts, and technical notes that provide background, development history, and additional context for the broader research ecosystem.
 
 ---
 
-### Notes
+## Role Within the Semantic Fidelity Lab
 
-Research papers are maintained as versioned documents.
-Major revisions are released as new papers or new versions.
+This directory serves as the research layer of the Semantic Fidelity Lab.
+
+It connects the canonical framework materials to applied papers, diagnostic failure modes, and supporting research artifacts.
+
+---
+
+## Context
+
+This directory is part of the [Semantic Fidelity Lab GitHub repository](https://github.com/therealitydrift/semantic-fidelity-lab).
+
+---
+
+## Core framework and sources
+
+- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
+- Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
+- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
+- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
+
+---
+
+## Notes
+
+The core framework and failure modes series should be treated as the primary materials in this directory.
+
+Supplementary materials are included for context and should not be read as the current canonical framework unless explicitly marked as such.
 
 README version: v1.0

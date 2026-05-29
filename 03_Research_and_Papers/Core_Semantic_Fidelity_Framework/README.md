@@ -126,4 +126,4 @@ Part of the Reality Drift Framework (2023–2026).
 - [DOI (Research Paper)](https://doi.org/10.6084/m9.figshare.30422107)
 - [Glossary & Definition](https://offbrandguy.com/semantic-fidelity-glossary/)
 
-
+---
