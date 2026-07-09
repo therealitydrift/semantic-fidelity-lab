@@ -46,7 +46,7 @@ These frameworks can be used for:
 - aligning teams around shared mental models  
 - 
 
----
+--
 
 ## Semantic Fidelity Lab Resources
 
