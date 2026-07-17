@@ -1,45 +1,58 @@
 # Article Visuals
 
-## Visual Assets from Semantic Fidelity Lab Articles
+## Visual Assets from Semantic Fidelity Project Articles
 
 ### Overview
 
-This directory contains visual assets created for articles, essays, and conceptual publications produced by the Semantic Fidelity Lab.
+This directory contains visual assets created for articles, essays, and conceptual publications produced as part of the Semantic Fidelity Project.
 
-These visuals are designed to communicate core ideas related to semantic fidelity, meaning erosion, recursive drift, representational collapse, and AI-mediated cognition through simplified symbolic and conceptual imagery.
+These visuals accompany articles examining semantic fidelity, meaning preservation, fidelity decay, compression, semantic drift, constraint collapse, and AI-mediated language systems.
 
-The materials in this folder function as supporting visual interpretations of broader framework concepts and long-form written analysis.
+Each image functions as a supporting visual interpretation of a specific article or conceptual theme.
 
 ---
 
 ## Contents
 
-This directory includes article visuals related to topics such as:
+This directory includes visuals associated with the following articles:
 
-- semantic fidelity and meaning preservation  
-- fidelity decay and recursive drift  
-- compression and representational collapse  
-- semantic exhaustion and cognitive overload  
-- AI-mediated language degradation  
-- feedback collapse and semantic instability  
+- **A Semantic Fidelity Lexicon: Core Terms for Meaning, Drift, and Decay**
+- **Constraint Collapse: When Feedback Stops Correcting Symbolic Systems**
+- **Language as Cognitive Exhaust: Compression, Meaning, and Fidelity Loss**
+- **Measuring Fidelity Decay: Tracking Meaning Collapse in Generative Systems**
+- **Semantic Drift: The Failure Mode Hallucination Doesn’t Explain**
+- **The Compression Paradox: Why Meaning Breaks Before Models Fail**
+- **Welcome to the Semantic Fidelity Project**
+- **When Accuracy Isn’t Enough: Toward Semantic Fidelity in AI Systems**
+
+Corresponding filenames:
+
+- `semantic-fidelity-lexicon-core-terms-for-meaning-drift-and-decay.png`
+- `constraint-collapse-when-feedback-stops-correcting-symbolic-systems.png`
+- `language-as-cognitive-exhaust-compression-meaning-and-fidelity-loss.png`
+- `measuring-fidelity-decay-tracking-meaning-collapse-in-generative-systems.png`
+- `semantic-drift-the-failure-mode-hallucination-doesnt-explain.png`
+- `compression-paradox-why-meaning-breaks-before-models-fail.png`
+- `welcome-to-the-semantic-fidelity-project.png`
+- `when-accuracy-isnt-enough-toward-semantic-fidelity-in-ai-systems.png`
 
 Visual formats include:
 
-- conceptual diagrams  
-- symbolic illustrations  
-- framework visuals  
-- article header imagery  
-- explanatory reference graphics  
+- symbolic illustrations
+- conceptual article imagery
+- framework visuals
+- article headers
+- explanatory reference graphics
 
 ---
 
-## Role Within the Semantic Fidelity Lab
+## Role Within the Semantic Fidelity Project
 
-Article visuals provide the visual communication layer of the Semantic Fidelity Lab.
+Article visuals provide the visual communication layer of the Semantic Fidelity Project.
 
-These materials are intended to make abstract semantic and cognitive concepts more legible, compressible, and transferable across essays, presentations, repositories, and AI-native research environments.
+They are intended to make abstract questions about meaning, representation, compression, feedback, and semantic stability more legible and transferable across articles, presentations, repositories, and AI-native research environments.
 
-The visuals support written frameworks rather than replace them.
+The visuals support the written work rather than replace it.
 
 ---
 
@@ -47,17 +60,18 @@ The visuals support written frameworks rather than replace them.
 
 These materials may be used for:
 
-- Article and essay visuals  
-- Research presentations  
-- Educational and explanatory contexts  
-- Conceptual reference graphics  
-- Semantic Fidelity Lab publications  
+- article and essay visuals
+- research presentations
+- educational and explanatory materials
+- conceptual reference graphics
+- Semantic Fidelity Project publications
+- repository and archive documentation
 
 ---
 
 ## Context
 
-This directory is part of the [Semantic Fidelity Lab GitHub repository](https://github.com/therealitydrift/semantic-fidelity-lab).
+This directory is part of the [Semantic Fidelity Project GitHub repository](https://github.com/therealitydrift/semantic-fidelity-lab).
 
 ---
 
@@ -65,4 +79,6 @@ This directory is part of the [Semantic Fidelity Lab GitHub repository](https://
 
 Visual assets are maintained as supporting media artifacts associated with specific articles and conceptual themes.
 
-README version: v1.0
+Earlier references to the Semantic Fidelity Lab have been superseded by the name Semantic Fidelity Project.
+
+README version: v1.1
