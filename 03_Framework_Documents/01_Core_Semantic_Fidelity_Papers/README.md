@@ -1,10 +1,10 @@
 # Core Semantic Fidelity Papers
 
-### Semantic Fidelity Lab | Reality Drift Framework (2023–2026)
+### Semantic Fidelity Project | Reality Drift Framework (2023–2026)
 
-This repository contains the foundational papers of the **Semantic Fidelity Lab**, a research initiative dedicated to understanding how meaning is preserved, degraded, and measured in artificial intelligence systems.
+This repository contains the foundational papers of the Semantic Fidelity Project, a research initiative dedicated to understanding how meaning is preserved, degraded, and measured in artificial intelligence systems.
 
-These works form the core of the **Semantic Fidelity Framework**, a conceptual and evaluative model that examines how generative AI transforms language through compression, recursion, and scale. Together, they establish semantic fidelity as a critical dimension of AI alignment, evaluation, and governance.
+These works forms a conceptual and evaluative model that examines how generative AI transforms language through compression, recursion, and scale. Together, this work establishes semantic fidelity as a critical dimension of AI alignment, evaluation, and governance.
 
 ---
 
@@ -95,14 +95,13 @@ Introduces autopoiesis as a foundational principle for AI alignment, emphasizing
 
 ## Framework Overview
 
-The **Semantic Fidelity Framework** introduces a structured approach to understanding meaning preservation in generative systems. Key concepts include:
+The Semantic Fidelity Framework introduces a structured approach to understanding meaning preservation in generative systems. Key concepts include:
 
 - **Semantic Fidelity** — The preservation of intent, nuance, and communicative purpose across transformations of language.
 - **Semantic Drift** — The gradual erosion of meaning through recursive transformations.
 - **Fidelity Decay** — The cumulative loss of semantic integrity over time.
 - **Constraint Collapse** — A structural failure in which feedback no longer enforces correction.
 - **Recursive Compression** — The iterative summarization and regeneration of information that reshapes meaning.
-- **The Drift Principle** — **Drift = Compression ÷ Fidelity**
 - **The Compression Paradox** — The phenomenon whereby seemingly safe tasks degrade meaning before hallucinations occur.
 - **Optimization Trap** — When proxy metrics replace the realities they were designed to measure.
 - **Autopoiesis** — The capacity of a system to preserve itself through internal constraint and consequence.
@@ -114,7 +113,7 @@ Together, these works provide a unified lens for evaluating AI systems in terms 
 
 ## Citation
 
-**Jacobs, A. (2026). _Semantic Fidelity Lab Papers._**  
+**Jacobs, A. (2026). _Semantic Fidelity Project Papers._**  
 Part of the Reality Drift Framework (2023–2026).
 
 ---
@@ -123,7 +122,6 @@ Part of the Reality Drift Framework (2023–2026).
 
 - [Substack (Articles)](https://semanticfidelitylab.substack.com/)
 - [GitHub (Full Library)](https://github.com/therealitydrift/semantic-fidelity-lab)
-- [DOI (Research Paper)](https://doi.org/10.6084/m9.figshare.30422107)
 - [Glossary & Definition](https://offbrandguy.com/semantic-fidelity-glossary/)
 
 ---

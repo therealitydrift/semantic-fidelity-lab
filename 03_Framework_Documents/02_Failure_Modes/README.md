@@ -31,7 +31,7 @@ Each paper isolates a specific breakdown across modern AI pipelines. These are n
 Modern AI systems do not typically fail by breaking.  
 They fail by remaining coherent while drifting away from meaning.
 
-This series introduces **semantic fidelity** as a core lens for evaluating whether meaning and intent are preserved across:
+This series introduces semantic fidelity as a core lens for evaluating whether meaning and intent are preserved across:
 
 - representation  
 - retrieval  
@@ -44,5 +44,4 @@ This series introduces **semantic fidelity** as a core lens for evaluating wheth
 
 - Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
 - Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
-- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
 - Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
