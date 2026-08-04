@@ -1,192 +1,80 @@
-# Semantic Fidelity Lab
+# Semantic Fidelity Project
 
-The Semantic Fidelity Lab is an open, public research repository authored by A. Jacobs, focused on how meaning degrades, thins, or collapses in generative and compression-driven systems.
+The Semantic Fidelity Project is the primary public repository for the Semantic Fidelity framework by A. Jacobs.
 
-The materials collected here were developed between 2023 and 2026 as part of the broader Reality Drift framework.
-
-The project examines semantic fidelity as a structural property: how meaning is preserved, distorted, or lost as language is repeatedly generated, compressed, optimized, and recombined by artificial systems operating at scale.
-
-This repository consolidates working papers, lexical frameworks, diagnostic concepts, and measurement proposals for researchers, developers, evaluators, and system designers working on generative AI and language-based systems.
-
----
-
-## Project Overview
-
-Semantic Fidelity describes how meaning changes when generative systems optimize for fluency, coherence, and scale faster than semantic grounding can be maintained.
-
-Rather than treating errors as isolated hallucinations or misuse, the Semantic Fidelity Lab studies meaning loss as a systemic consequence of:
-
-- compression-heavy language generation
-
-- recursive regeneration and paraphrase
-
-- optimization for surface coherence
-
-- saturation of synthetic text ecosystems
-
-The lab provides a research foundation for understanding meaning erosion as an emergent property of modern generative systems.
-
----
-
-## Why This Exists
-
-Generative systems can remain fluent, useful, and internally consistent even as semantic grounding weakens and meaning degrades. The failure mode of interest is persistent linguistic performance despite declining semantic fidelity.
-
-The Semantic Fidelity Lab documents and models this gap before it is normalized as an acceptable tradeoff in large-scale language systems.
-
----
-
-## Core Research Focus
-
-The Semantic Fidelity Lab studies:
-
-- how meaning erodes under repeated generation and compression
-
-- how semantic drift accumulates across regeneration cycles
-
-- how background significance and cultural hierarchy collapse
-
-- how synthetic text saturation alters meaning density
-
-- how fidelity loss differs from hallucination or factual error
-
-This work bridges language modeling, information theory, evaluation science, and cultural analysis.
+Semantic Fidelity examines whether meaning survives as language moves through systems, models, compression, translation, and artificial intelligence. A system can remain accurate, fluent, and internally coherent while gradually losing the intent, context, and significance that gave language its original meaning.
 
 ---
 
 ## Repository Contents
 
-This repository includes:
-
-- Conceptual Papers  
-  Formal models and frameworks describing cognitive drift mechanisms
-- Empirical & Diagnostic Materials  
-  Probes, heuristics, and evaluative tools for observing drift in practice
-- Working Materials  
-  Early-stage drafts and exploratory artifacts shared for transparency
-
----
-
-## How to Use This Repository
-
-- Researchers may cite frameworks and models with attribution
-
-- Designers and practitioners may adapt diagnostics for applied analysis
-
-- Educators may reuse materials for teaching and discussion
+```text
+00_Start_Here
+01_Core_Concepts
+02_Glossary_and_Guides
+03_Semantic_Fidelity_Papers
+04_Notes_on_Fidelity_Decay
+05_AI_Drift_Tools
+06_Visual_Guides
+```
 
 ---
 
-## Key Concepts
+## Where to Start
 
-The following concepts form the core vocabulary. Each term is used operationally across papers and diagnostics in this repository.
+If you're new to the framework, begin with **00_Start_Here**, which provides an introduction and recommended reading path.
 
----
+The remaining folders are organized as follows:
 
-## Semantic Fidelity
-
-Semantic Fidelity is the degree to which meaning is preserved across compression, translation, repetition, or abstraction. The term describes how language, symbols, or representations can remain technically correct while gradually losing alignment with the underlying meaning they were intended to convey.
-
-**Repository:** [Semantic Fidelity Reference](https://github.com/therealitydrift/semantic-fidelity-reference)
-
----
-
-## Fidelity Decay
-
-The predictable decline of semantic integrity over repeated compressions. Each iteration shaves away subtle features, producing a measurable decay in fidelity.
+- **01_Core_Concepts** — Canonical concepts and foundational definitions.
+- **02_Glossary_and_Guides** — Reference terminology, introductory materials, and practical guides.
+- **03_Semantic_Fidelity_Papers** — Research papers examining meaning preservation, semantic degradation, and AI language systems.
+- **04_Notes_on_Fidelity_Decay** — Short papers and research notes exploring semantic loss across recursive transformation.
+- **05_AI_Drift_Tools** — Diagnostic frameworks, evaluation concepts, and AI-focused reference materials.
+- **06_Visual_Guides** — Diagrams and visual explanations supporting the framework.
 
 ---
 
-### Fidelity Benchmark
+## Core Concepts
 
-Evaluation metrics that measure whether AI preserves meaning, not just factuality. 
-Benchmarks for drift, nuance, and resonance are required to supplement existing anchors like faithfulness and adequacy.
+The Semantic Fidelity framework examines how meaning changes as information moves through language, representations, and AI systems.
 
----
+Core concepts include:
 
-## Semantic Drift
-
-The gradual erosion of meaning across recursive transformations: summarization, 
-paraphrasing, or repeated generation. Drift often leaves facts intact but strips away tone, metaphor, and resonance.
-
-**Repository:** [Semantic Drift Reference](https://github.com/therealitydrift/semantic-drift-reference)
-
----
-
-### Recursive Compression
-
-Proposes that intelligence arises from the ability to compress information, while consciousness emerges from recursive self-modeling within that compression process. Meaning, identity, and perception stabilize through feedback loops between representation, memory, and self-reference.
-
-**Repository:** [Recursive Compression Reference](https://github.com/therealitydrift/recursive-compression-reference)
+- Semantic Fidelity
+- Fidelity Decay
+- Semantic Drift
+- Recursive Compression
+- AI Interpretation Failure
+- Embedding Similarity
+- Meaning Preservation
+- Semantic Grounding
 
 ---
 
-### Drift Principle
+## Scope
 
-The Drift Principle states that when systems accelerate or increase in complexity faster than their participants can integrate meaning, coherence will degrade even if performance metrics remain stable. The principle describes how drift emerges not from failure or collapse, but from sustained mismatch between system dynamics and human cognitive limits.  
-**Repository:** [Drift Principle Reference](https://github.com/therealitydrift/drift-principle-reference)
-
----
-
-## Core Academic Papers
-
-- **Measuring Fidelity Decay: A Framework for Semantic Drift and Collapse**  
-  [Figshare](https://figshare.com/articles/conference_contribution/Measuring_Fidelity_Decay_A_Framework_for_Semantic_Drift_and_Collapse/30422107)
-
----
-
-## Research & Archives
-
-- **Hugging Face Dataset**  
-  [Datasets at Hugging Face](https://huggingface.co/datasets/realitydriftproject/semantic-fidelity-examples)
-
-- **Academia.edu**  
-  [A. Jacobs — Semantic Fidelity Lab](https://independent.academia.edu/SemanticFidelityLab)
-
----
-
-## Publishing & Commentary
-
-- [Substack](https://semanticfidelitylab.substack.com/)
-
-- [Archive.org](https://archive.org/details/@semanticfidelitylab)
-
----
-
-## Relationship to Cognitive Drift Institute and Reality Drift
-
-The Semantic Fidelity Lab operates as a complementary research body within the broader Reality Drift ecosystem.
-
-- Cognitive Drift focuses on how human cognition changes under modern symbolic systems
-
-- Semantic Fidelity focuses on how meaning degrades within those systems themselves
-
-Together, these projects describe interacting layers of drift: cognitive and semantic.
+The Semantic Fidelity framework provides a descriptive model for understanding whether meaning is preserved as information moves through compression, translation, retrieval, summarization, and generative AI systems. It complements existing approaches to factuality, grounding, and evaluation by focusing on the preservation of meaning rather than surface correctness alone.
 
 ---
 
 ## Related Repositories
 
-- [Cognitive Drift Institute](https://github.com/therealitydrift/cognitive-drift-institute)
+The Semantic Fidelity Project is part of the broader Reality Drift framework.
 
-- [Reality Drift Library](https://github.com/therealitydrift/reality-drift-library)
+- **Reality Drift Library** — The central systems framework.
+- **Cognitive Drift Project** — Human cognition under modern informational conditions.
 
 ---
 
 ## Citation
 
-If referencing this work, please cite:
+**Jacobs, A. (2026). _Semantic Fidelity Project._**
 
-> Jacobs, A. *Semantic Fidelity Lab*.
+GitHub: https://github.com/therealitydrift/semantic-fidelity-project
 
 ---
 
 ## License
 
-Distributed under Creative Commons CC BY-NC-SA 4.0.
-
-Material may be shared and adapted with attribution, for non-commercial purposes, under the same license.
-
----
-
-README version: v2.0 (canonical)
+This repository is distributed under the **Creative Commons CC BY-NC-SA 4.0** license.

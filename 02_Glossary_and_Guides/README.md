@@ -1,60 +1,27 @@
-# Glossaries
+# Glossary and Guides
 
-## Canonical Lexicons and Semantic Reference Documents
+This directory contains reference materials supporting the Semantic Fidelity framework.
 
-### Overview
-
-This directory contains the canonical glossary and lexical reference documents produced by the Semantic Fidelity Lab.
-
-These materials define the core terminology, conceptual distinctions, and semantic structures used throughout the broader Semantic Fidelity framework. The documents in this folder are intended to function as stable reference layers for researchers, evaluators, AI practitioners, and related semantic systems work.
+These documents define core terminology, clarify related concepts, and provide practical guides for understanding how meaning changes across language, representations, and AI systems.
 
 ---
 
-## Documents
+## Included Documents
 
-### Semantic Fidelity Lab Canonical Lexicon
+### Semantic Fidelity Canonical Lexicon
 
-File: [Semantic_Fidelity_Lab_Canonical_Lexicon.pdf](./Semantic_Fidelity_Lab_Canonical_Lexicon.pdf)
+The canonical glossary of terms used throughout the Semantic Fidelity framework, providing consistent definitions for its core concepts and vocabulary.
 
-Primary canonical glossary defining the foundational concepts of the Semantic Fidelity framework, including semantic drift, fidelity decay, meaning collapse, ground erosion, representational degradation, semantic compression, and recursive semantic failure.
+### Proxy Optimization and Metric Gaming
 
-This document functions as the central human-readable reference vocabulary for the Semantic Fidelity Lab.
-
----
-
-### Semantic Fidelity Canonical Lexicon Recursive AI Systems 2026
-
-File: [semantic-fidelity-canonical-lexicon-recursive-ai-systems-2026.pdf](./semantic-fidelity-canonical-lexicon-recursive-ai-systems-2026.pdf)
-
-Extended lexical framework focused on recursive AI systems, semantic regeneration loops, and representational instability within multi-stage generative environments.
-
-This document expands the canonical framework into recursive and AI-native semantic environments.
+A reference guide examining how optimization for measurable signals can gradually replace the underlying goals those signals were intended to represent, contributing to semantic degradation across complex systems.
 
 ---
 
-## Role Within the Semantic Fidelity Lab
+## Purpose
 
-Glossaries and lexical frameworks provide the semantic reference layer for the broader Semantic Fidelity ecosystem.
-
-They establish shared definitions across research papers, evaluation frameworks, ontology systems, knowledge graphs, comparative analysis, and AI alignment discussions.
-
-These materials are designed for stable reuse and consistent conceptual grounding.
+These materials serve as reference documents for readers exploring the Semantic Fidelity framework. They complement the core concept papers by establishing shared terminology and providing focused explanations of recurring mechanisms and concepts.
 
 ---
 
-## Context
-
-This directory is part of the [Semantic Fidelity Lab GitHub repository](https://github.com/therealitydrift/semantic-fidelity-lab).
-
----
-
-## Core framework and sources
-
-- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
-- Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
-- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
-- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
-
----
-
-README version: v1.0
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*

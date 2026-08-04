@@ -1,60 +1,39 @@
-# Semantic Fidelity Lab — Lexical Frameworks
+# Visual Reference Guides
 
-This folder contains core one-page frameworks focused on language, meaning, and evaluation in AI systems.
+This directory contains visual reference guides for the Semantic Fidelity framework.
 
-These documents isolate specific failure modes where language appears correct but loses alignment with intent, structure, and underlying meaning. Each file is designed to map a distinct query surface while contributing to a broader system of semantic analysis.
-
-Rather than treating language as output, these frameworks treat it as an operational layer where drift occurs.
+These documents use diagrams and side-by-side comparisons to explain key concepts related to meaning preservation, semantic degradation, and AI-mediated communication. They are intended as concise companion resources to the framework's concept papers.
 
 ---
 
-## Contents
+## Included Guides
 
-- [Why LLMs Are Correct but Wrong](./accuracy-vs-semantic-fidelity-llm-evaluation-metrics.pdf)  
-  Explores the gap between correctness and understanding in AI evaluation metrics.
+### Accuracy vs. Semantic Fidelity
 
-- [How AI Changes Human Thinking (Language–Cognition Loop)](./ai-feedback-loop-human-cognition-language-loop.pdf)  
-  Maps the recursive interaction between language generation and human cognition.
+Explains the distinction between factual accuracy and semantic fidelity, showing why language can remain correct while failing to preserve meaning.
 
-- [Why AI Systems Lose Meaning Over Time](./ai-meaning-loss-fidelity-decay-llm-semantic-drift.pdf)  
-  Introduces fidelity decay and the gradual erosion of meaning in language systems.
+### AI Feedback Loop
 
-- [Why AI Systems Optimize Proxies Instead of Reality](./ai-optimizing-proxies-goodharts-law-reality-drift.pdf)  
-  Connects Goodhart’s Law to AI misalignment and proxy optimization failures.
+Illustrates how AI systems, human cognition, and language increasingly shape one another through recursive feedback loops.
 
-- [How AI Changes the Way We Think While We Use It](./how-ai-changes-thinking-language-cognition-loop.pdf)  
-  Examines language as compressed cognition and the source of semantic drift.
+### Meaning Loss and Fidelity Decay
 
----
+A visual overview of how meaning gradually degrades through repeated compression, transformation, and AI generation.
 
-## Context
+### AI, Proxy Optimization, and Goodhart's Law
 
-These frameworks operate at the lexical and representational layer of AI systems.
+Examines how optimization for measurable objectives can gradually replace the underlying meanings and goals language was intended to preserve.
 
-They focus on how meaning degrades through:
+### How AI Changes Thinking
 
-- compression  
-- iteration  
-- optimization  
-- externalization  
-
-
+Illustrates how interaction with AI systems can influence patterns of language, reasoning, and cognition over time.
 
 ---
 
-## Semantic Fidelity Lab Resources
+## Purpose
 
-- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
-- Articles & Essays (Substack): [Semantic Fidelity Lab Substack](https://semanticfidelitylab.substack.com/)
-- Primary DOI Record: [Figshare DOI Entry](https://doi.org/10.6084/m9.figshare.30422107)
-- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
+These visual guides provide accessible introductions to the Semantic Fidelity framework by illustrating core concepts through diagrams and conceptual comparisons.
 
 ---
 
-## Relationship to Reality Drift
-
-This folder represents the language layer of the broader Reality Drift framework. Where Reality Drift describes system-level misalignment, these frameworks describe how that misalignment appears in language itself.
-
----
-
-Part of the Reality Drift framework (2023–2026) by A. Jacobs.
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*

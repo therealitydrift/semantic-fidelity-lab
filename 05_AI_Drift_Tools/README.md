@@ -1,45 +1,31 @@
-# Semantic Fidelity Lab — Drift Detection Frameworks
+# AI Drift Tools
 
-This series introduces practical systems for detecting drift in AI models, LLM systems, and complex workflows where outputs remain coherent while gradually losing alignment with intent, context, and real-world conditions.
+This directory contains practical frameworks for evaluating semantic drift and alignment in AI systems.
 
-Each paper focuses on a specific layer of drift detection. These are not isolated issues. They reflect a shared structural pattern: systems continue to function while drifting away from the reality they are meant to represent.
-
----
-
-## Papers
-
-- [Detecting Silent Model Drift in LLM Systems](./detecting-silent-model-drift-llm-systems.pdf)
-
-- [Drift Audit Checklist for AI Systems](./drift-audit-checklist-ai-systems.pdf)
-
-- [Drift Evaluation Framework for AI Systems](./drift-evaluation-framework-ai-systems.pdf)
-
-- [Institutional Drift Detection Framework](./organizational-drift-detection-framework.pdf)
+These documents provide diagnostic methods, evaluation frameworks, and review tools for identifying when language models remain fluent and coherent while gradually losing alignment with user intent, source material, or real-world meaning.
 
 ---
 
-## Summary
+## Included Tools
 
-Most AI systems do not fail through obvious errors.  
-They degrade while maintaining fluency, structure, and internal consistency.
+### Detecting Silent Model Drift
 
-This series provides a framework for identifying drift across multiple layers:
+A framework for recognizing gradual changes in AI system behavior that occur without obvious failures, focusing on shifts in meaning, interpretation, and alignment over time.
 
-- data  
-- performance  
-- behavior  
-- semantic alignment  
-- system-level feedback  
+### Drift Audit Checklist
 
-The focus shifts from evaluating correctness alone to evaluating whether systems remain aligned with real-world conditions and intended outcomes over time.
+A practical checklist for evaluating AI systems for signs of semantic drift, representation drift, and weakening alignment during development, deployment, and ongoing monitoring.
+
+### Drift Evaluation Framework
+
+A structured evaluation framework for assessing how effectively AI systems preserve meaning, maintain semantic grounding, and resist degradation across retrieval, summarization, and generation tasks.
+
+---
+
+## Purpose
+
+These documents translate the Semantic Fidelity framework into practical evaluation tools for AI systems. They are intended for researchers, developers, evaluators, and organizations seeking to identify semantic degradation before it becomes difficult to detect.
 
 ---
 
-## Core framework and sources
-
-- Research Library (GitHub): [Semantic Fidelity Lab Repository](https://github.com/therealitydrift/semantic-fidelity-lab)
-- Articles & Essays (Substack): [Reality Drift](https://therealitydrift.substack.com)
-- Primary DOI Record: [Figshare Collection](https://figshare.com/)
-- Concept Glossary: [Semantic Fidelity Glossary](https://offbrandguy.com/semantic-fidelity-glossary/)
-
----
+*Part of the Reality Drift framework (2023–2026) by A. Jacobs.*
